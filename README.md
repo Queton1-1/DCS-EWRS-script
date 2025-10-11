@@ -16,12 +16,9 @@ FONCTIONNALITES
 - reports au format BRAA
 - temporisation des reports suivant distance
 - menu radio pour activer ou désactiver les reports
-  
-AJOUTS  
---------  
-- compatible multijoueur
-- report EWRS disponible seulement sur certains types d'appareils préalablement selectionnés
-- utilisation de la portée réelle des capteurs des radars (de base une approximation était utilisée).
+- compatible multijoueur. (ajout)  
+- report EWRS disponible seulement sur certains types d'appareils préalablement selectionnés. (ajout)  
+- utilisation de la portée réelle des capteurs des radars (de base une approximation était utilisée). (ajout)  
 
 INSTALLATION  
 --------  
