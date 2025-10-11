@@ -4,7 +4,7 @@
 Basé sur le script EWRS Script v15.9 de WhiskeyTangoFoxtrot_3  
 Lien vers le script d'origine : https://www.digitalcombatsimulator.com/fr/files/3344972/  
 
-Page des téléchargements  
+TELECHARGEMENT   
 --------  
 https://github.com/Queton1-1/EWRS-script/releases  
   
