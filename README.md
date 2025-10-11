@@ -1,23 +1,16 @@
 Basé sur le script EWRS Script v15.9 de WhiskeyTangoFoxtrot_3  
-  
 Lien vers le script d'origine : https://www.digitalcombatsimulator.com/fr/files/3344972/  
 
-Voir la page release pour télécharger :  https://github.com/Queton1-1/EWRS-script/releases  
-  
-FEATURES
---------
-- Works for either Blue or Red coalition (coalition-agnostic)
-- Detects enemy aircraft using all active radar units with "EWR_" prefix
-- BRAA callouts every 25 seconds (normal), or every 3 seconds if enemy is within 10nm
-- Displays detailed callouts: aircraft type, heading, range, altitude, aspect
-- Adds clock direction + altitude cue when enemy is within 5nm
-- Filters out units that are destroyed (dead or exploded)
-- Callouts are automatically sorted by ascending distance
-- Standalone script (does NOT require MIST or other frameworks)
-- Optional F10 Radio Commands for:
-  - Toggling automatic EWRS reports
-  - Requesting friendly picture
-  - Requesting enemy helicopter picture
+Page des téléchargements :  https://github.com/Queton1-1/EWRS-script/releases  
+
+FONCTIONNALITES
+--------  
+- ne requiert ni MOOSE, ni MIST
+- disponible pour toutes les coalitions
+- detection des menaces à partir des radars ayant un préfixe spécifique (personalisable)
+- reports au format BRAA
+- temporisation des reports suivant distance
+- menu radio pour activer ou désactiver les reports
   
 Principaux ajouts : 
 - multiplayer compatible 
