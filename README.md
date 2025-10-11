@@ -16,15 +16,18 @@ FONCTIONNALITES
 - menu radio pour activer ou désactiver les reports
   
 AJOUTS  
+--------  
 - compatible multijoueur
 - report EWRS disponible seulement sur certains types d'appareils préalablement selectionnés
 - utilisation de la portée réelle des capteurs des radars (de base une approximation était utilisée).
 
 INSTALLATION  
+--------  
 Il suffit de créer un trigger avec pour condition 'temps sup. à' (1) et charger le script .lua contenu dans le .zip
 Ne nécessite aucune dépendance (Moose, Mist, etc...) et ne gène pas leur fonctionnement.
 
 UTILISATION  
+--------  
 Rien de plus simple.
 Si le script est bien chargé, et l'appareil compatible, activez le report via le menu radio.
   
