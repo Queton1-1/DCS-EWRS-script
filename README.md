@@ -1,14 +1,14 @@
-# DCS EWRS script
+# DCS-EWRS-SCRIPT  
 [Update 2025-10]
 
 Basé sur le script EWRS Script v15.9 de WhiskeyTangoFoxtrot_3  
 Lien vers le script d'origine : https://www.digitalcombatsimulator.com/fr/files/3344972/  
 
-TELECHARGEMENT   
+Téléchargement     
 --------  
 https://github.com/Queton1-1/EWRS-script/releases  
   
-FONCTIONNALITES
+Fonctionnalités  
 --------  
 - ne requiert ni MOOSE, ni MIST
 - disponible pour toutes les coalitions
@@ -20,12 +20,12 @@ FONCTIONNALITES
 - report EWRS disponible seulement sur certains types d'appareils préalablement selectionnés. (ajout)  
 - utilisation de la portée réelle des capteurs des radars (de base une approximation était utilisée). (ajout)  
 
-INSTALLATION  
+Installation    
 --------  
 Il suffit de créer un trigger avec pour condition 'temps sup. à' (1) et charger le script .lua contenu dans le .zip
 Ne nécessite aucune dépendance (Moose, Mist, etc...) et ne gène pas leur fonctionnement.
 
-UTILISATION  
+Utilisation    
 --------  
 Rien de plus simple.
 Si le script est bien chargé, et l'appareil compatible, activez le report via le menu radio.
