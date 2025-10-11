@@ -30,3 +30,6 @@ UTILISATION
 Rien de plus simple.
 Si le script est bien chargé, et l'appareil compatible, activez le report via le menu radio.
   
+o7  
+
+Quéton 1-1 | [YouTube](https://www.youtube.com/channel/UCkYOYKrKMwCV-3yASP9gf8Q) | [Twitch](https://www.twitch.tv/queton11) | [DCS UserFiles](https://www.digitalcombatsimulator.com/fr/files/filter/user-is-TheJGi/apply/) | [GitHub](https://github.com/Queton1-1)
