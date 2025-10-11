@@ -1,4 +1,4 @@
-# EWRS script
+# DCS EWRS script
 [Update 2025-10]
 
 Basé sur le script EWRS Script v15.9 de WhiskeyTangoFoxtrot_3  
